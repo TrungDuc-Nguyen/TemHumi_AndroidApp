@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "700225660826",
+    "firebase_url": "https://temhumidht12.firebaseio.com",
+    "project_id": "temhumidht12",
+    "storage_bucket": "temhumidht12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700225660826:android:749432f213c9d2bec37c23",
+        "android_client_info": {
+          "package_name": "com.example.temhumi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "700225660826-mruo6auf96sspmr9n4brgtdi5vtonjgt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.temhumi",
+            "certificate_hash": "1188b2e7fd1edfef199984d52f767ab72ccfa1f8"
+          }
+        },
+        {
+          "client_id": "700225660826-55sk3grqkm7cpdt2ubh54lot9lo8lrgi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9uo7609cFk5UWAu-974Zw1DkAIqT9fVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "700225660826-55sk3grqkm7cpdt2ubh54lot9lo8lrgi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

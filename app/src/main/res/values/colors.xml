@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="White">#ffffff</color>
+    <color name="Black">#000000</color>
+    <color name="Blue50">#E1F5FE</color>
+    <color name="Blue100">#B3E5FC</color>
+    <color name="Blue200">#81d4fa</color>
+    <color name="Blue300">#4fc3f7</color>
+    <color name="Blue400">#29b6f6</color>
+    <color name="Blue500">#3303A9F4</color>
+    <color name="BlueA100">#80d8ff</color>
+    <color name="BlueA200">#40c4ff</color>
+    <color name="trans">#00000000</color>
+
+    <color name="Green">#08EF11</color>
+    <color name="Red">#E81E0F</color>
+</resources>

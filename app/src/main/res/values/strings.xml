@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TemHumi</string>
+    <string name="text_Tem_Humi">Temperature and Humidity</string>
+
+
+    <string name="text_time">Thời gian: %f</string>
+    <string name="text_tem">Nhiệt độ: %f ℃</string>
+    <string name="text_humi">Độ ẩm: %f </string>
+    <string name="text_today">Hôm nay, %s</string>
+
+</resources>
